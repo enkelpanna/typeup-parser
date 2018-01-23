@@ -1,6 +1,6 @@
 {
   "name": "@enkelpanna/typeup-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeUp parser for Enkelpanna, the simple to use static site generator.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
